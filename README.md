@@ -8,5 +8,5 @@ Hay 4 ficheros para las distintas tareas:
 1. 'Collect_files.ipynb' - Recolección de datos de las principales compañías cotizadas en España. 
 2. 'EDA.ipynb' - Análisis exploratorio de los datos donde se comprueba si la información recolectada está completa y se pre-procesa para su posterior análisis. 
 3. 'TDA.ipynb' - Análisis Topológico de Datos (TDA), en este fichero se obtiene una nube de puntos a partir de las series temporales. El objetivo principal es usar TDA para determinar las Lp-norms de los paisajes de persistencia generados por la nube de puntos. Con esto se obtiene un conjunto de fechas críticas.
-4. 'Grafos.ipynb' - Análisis basado en grafos y redes complejas donde se muestra el grado de interconexión e interdependencia de las compañías en un instante determinado.
+4. 'Grafos.ipynb' - Análisis basado en redes complejas donde se muestra el grado de interconexión e interdependencia de las compañías en un instante determinado.
 
